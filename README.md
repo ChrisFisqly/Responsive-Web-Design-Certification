@@ -1,3 +1,5 @@
+![alt text](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/blob/master/img/freecodecamp-vector-logo.png "FreeCodeCamp Logo")
+
 ## Responsive Web Design Certification
 
 I am have completed the Responsive Web Design Certification course at [FreeCodeCamp](https://www.freecodecamp.org/learn). I highly recommend as a launch point for your FullStack Developer roadmap to success.
