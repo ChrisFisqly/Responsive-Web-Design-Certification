@@ -40,3 +40,6 @@ The curriculum is part of [The Odin Project](https://www.theodinproject.com/)
 + Nest Many Elements within a Single div Element
 + Declare the Doctype of an HTML Document
 + Define the Head and Body of an HTML Document
+
+#### *Finished September 9, 2020*
+___
