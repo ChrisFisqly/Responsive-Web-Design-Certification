@@ -2,7 +2,7 @@
 
 ## Responsive Web Design Certification
 
-I am have completed the Responsive Web Design Certification course at [FreeCodeCamp](https://www.freecodecamp.org/learn). I highly recommend as a launch point for your FullStack Developer roadmap to success.
+I am completing the Responsive Web Design Certification course at [FreeCodeCamp](https://www.freecodecamp.org/learn). I highly recommend it as a launch point for your FullStack Developer roadmap to success.
 
 The curriculum is part of [The Odin Project](https://www.theodinproject.com/)
 
