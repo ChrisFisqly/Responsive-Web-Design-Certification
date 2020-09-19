@@ -182,3 +182,14 @@ ___
 
 #### *Finished September 18, 2020*
 ___
+
+### Responsive Web Design Principles
+
++ Introduction to the Responsive Web Design Challenges
++ Create a Media Query
++ Make an Image Responsive
++ Use a Retina Image for Higher Resolution Displays
++ Make Typography Responsive
+
+#### *Finished September 18, 2020*
+___
