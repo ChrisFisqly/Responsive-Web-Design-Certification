@@ -54,3 +54,18 @@ body {
   #description {
     margin-top: 10px;
   }
+
+  #survey-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #survey-fields {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-gap: 10px;
+  }
