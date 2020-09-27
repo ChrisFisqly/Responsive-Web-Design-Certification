@@ -69,3 +69,21 @@ body {
     display: grid;
     grid-gap: 10px;
   }
+
+  @media (max-width: 600px) {
+    #survey-fields {
+      grid-template-columns: 1fr;
+    }
+    label {
+      text-align: left;
+    }
+  }
+  
+  @media (min-width: 600px) {
+    #survey-fields {
+      grid-template-columns: 1fr 1fr;
+    }
+    label {
+      text-align: right;
+    }
+  }
