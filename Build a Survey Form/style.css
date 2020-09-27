@@ -7,3 +7,9 @@ body {
     flex-direction: column;
     font-family: "Raleway", Helvetica, sans-serif;
   }
+  
+  @media (max-width: 400px) {
+    body {
+      font-size: 13px;
+    }
+  }
