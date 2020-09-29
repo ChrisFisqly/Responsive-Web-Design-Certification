@@ -1,1 +1,8 @@
 <link href="https://fonts.googleapis.com/css?family=Raleway:400,500" rel="stylesheet" type="text/css">;
+
+body {
+    background-color: hsl(210, 45%, 60%);
+    display: flex;
+    flex-direction: column;
+    font-family: "Raleway", Helvetica, sans-serif;
+  }
