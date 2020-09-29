@@ -6,3 +6,15 @@ body {
     flex-direction: column;
     font-family: "Raleway", Helvetica, sans-serif;
   }
+
+  header {
+    position: fixed;
+    width: 100%;
+    background-color: hsl(45, 50%, 90%);
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding-top: 5px;
+  }  
