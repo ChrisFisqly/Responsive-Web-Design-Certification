@@ -31,4 +31,12 @@ body {
     grid-column: 1;
     width: 100%;
     align-self: center;
+  } 
+  
+  #nav-bar {
+    grid-column: 2;
+    align-self: center;
+    justify-self: right;
+    display: flex;
+    margin-right: 5px;
   }  
