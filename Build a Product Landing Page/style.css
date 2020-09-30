@@ -46,3 +46,13 @@ body {
     color: inherit;
     margin: 5px;
   }  
+
+  #intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #intro h2 {
+    margin-bottom: 15px;
+  }  
