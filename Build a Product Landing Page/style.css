@@ -81,4 +81,11 @@ body {
     justify-self: center;
     align-self: start;
     margin-top: 25px;
+  }
+  
+  #video {
+    margin: auto;
+    max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
   }  
