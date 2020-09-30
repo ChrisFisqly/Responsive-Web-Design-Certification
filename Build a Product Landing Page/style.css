@@ -27,4 +27,8 @@ body {
     z-index: 0;
   }
 
-  
+  #header-img {
+    grid-column: 1;
+    width: 100%;
+    align-self: center;
+  }  
