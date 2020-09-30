@@ -16,3 +16,15 @@ body {
     left: 0;
     padding-top: 5px;
   }  
+
+  main {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 750px;
+    position: relative;
+    top: 40px;
+    z-index: 0;
+  }
+
+  
