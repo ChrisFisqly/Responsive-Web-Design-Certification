@@ -56,3 +56,9 @@ body {
   #intro h2 {
     margin-bottom: 15px;
   }  
+
+  #form {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 10px;
+  }  
