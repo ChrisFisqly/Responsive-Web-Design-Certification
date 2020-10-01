@@ -119,4 +119,9 @@ body {
   
   .product-desc {
     list-style: none;
+  }
+  
+  #footer-nav {
+    display: flex;
+    grid-gap: 10px;
   }  
