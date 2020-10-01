@@ -124,4 +124,10 @@ body {
   #footer-nav {
     display: flex;
     grid-gap: 10px;
+  }
+  
+  footer p {
+    font-size: 85%;
+    color: gray;
+    margin-bottom: 10px;
   }  
