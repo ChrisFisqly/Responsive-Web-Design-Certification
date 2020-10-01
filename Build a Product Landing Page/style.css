@@ -130,4 +130,13 @@ body {
     font-size: 85%;
     color: gray;
     margin-bottom: 10px;
+  }
+  
+  .btn {
+    text-transform: uppercase;
+    background-color: hsl(45, 50%, 80%);
+    font-weight: bold;
+    border-radius: 6px;
+    height: 20px;
+    
   }  
