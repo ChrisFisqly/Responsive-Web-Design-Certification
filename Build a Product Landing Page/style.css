@@ -182,3 +182,12 @@ body {
   .feature-img {
     display: none;
   }
+
+  #products {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  .product-section { 
+    margin-top: 10px;
+  }
