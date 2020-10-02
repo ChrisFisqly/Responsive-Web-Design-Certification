@@ -195,4 +195,13 @@ body {
   footer {
     margin-top: 65px; 
   }
-}  
+}
+
+@media(max-width: 450px) {
+  body {
+    font-size: 75%;
+  }
+  header {
+    grid-template-columns: 210px 1fr;
+  }
+}
