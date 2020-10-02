@@ -165,3 +165,10 @@ body {
   main {
     top: 55px;
   }
+  
+  #nav-bar {
+    flex-direction: column;
+  }
+  .nav-link {
+    margin: 2px;
+  }
