@@ -158,3 +158,10 @@ body {
   body {
     font-size: 85%;
   }
+
+  header {
+    grid-template-columns: 255px 1fr;
+  }
+  main {
+    top: 55px;
+  }
