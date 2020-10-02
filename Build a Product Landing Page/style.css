@@ -146,4 +146,10 @@ body {
     animation-name: background-color;
     animation-duration: 150ms;
     animation-fill-mode: forwards;
-  }  
+  } 
+  
+  @keyframes background-color {
+    100% {
+      background-color: hsl(45, 70%, 65%);
+    }
+}
