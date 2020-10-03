@@ -252,6 +252,6 @@ ___
 + Introduction to the Responsive Web Design Projects
 + Build a Tribute Page - ***Finished September 23, 2020***
 + Build a Survey Form - ***Finished September 26, 2020***
-+ Build a Product Landing Page
++ Build a Product Landing Page - ***Finished October 3, 2020***
 + Build a Technical Documentation Page
 + Build a Personal Portfolio Webpage
