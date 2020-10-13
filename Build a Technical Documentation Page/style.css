@@ -21,3 +21,35 @@ h1, h2 {
 #navbar header {
     text-align: center;
   }  
+
+  #nav-list {
+    list-style: none;
+    padding-left: 0px;
+    overflow-y:auto;
+  }
+  
+  #nav-list li {
+    border-style: solid;
+    border-width: 1px;
+    border-color: hsl(0, 0%, 90%);
+    text-align: center;
+  }
+  
+  #nav-list li:hover {
+    animation-name: nav-list-item-color;
+    animation-duration: 90ms;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes nav-list-item-color {
+    100% {
+        background-color: hsl(200, 70%, 90%);
+        border-width: 2px;
+        border-color: hsl(200, 70%, 30%);
+    }
+  }
+  
+  .nav-link {
+    text-decoration: inherit;
+    color: inherit;
+  }  
