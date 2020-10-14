@@ -53,3 +53,20 @@ h1, h2 {
     text-decoration: inherit;
     color: inherit;
   }  
+
+  main {
+    margin-left: 31vw;
+    margin-right: 1vw;
+  }
+  
+  main ol {
+    list-style: disc;
+  }
+  
+  main li {
+    margin-top: 5px;
+  }
+  
+  .main-section {
+    text-align: justify;
+  }  
