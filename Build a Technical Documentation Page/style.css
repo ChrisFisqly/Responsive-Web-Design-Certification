@@ -69,4 +69,15 @@ h1, h2 {
   
   .main-section {
     text-align: justify;
+  }
+
+  code{
+    background-color: hsl(50, 90%, 96%);
+    display:block;
+    line-height: 2;
+    white-space: pre;
+    word-wrap: normal;
+    border-radius:5px;
+    padding: 5px;
+    padding-left: 10px;
   }  
