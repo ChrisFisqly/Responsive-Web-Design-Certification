@@ -98,4 +98,10 @@ h1, h2 {
       margin-left: 1vw;
       margin-right: 1vw;
     }
-  }    
+  }
+  
+  @media(max-width: 500px) {
+    body {
+      font-size: 90%;
+    }
+  }  
