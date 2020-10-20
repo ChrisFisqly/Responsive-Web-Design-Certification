@@ -253,5 +253,7 @@ ___
 + Build a Tribute Page - ***Finished September 23, 2020***
 + Build a Survey Form - ***Finished September 26, 2020***
 + Build a Product Landing Page - ***Finished October 3, 2020***
-+ Build a Technical Documentation Page
-+ Build a Personal Portfolio Webpage
++ Build a Technical Documentation Page - ***Finished October 20, 2020***
++ Build a Personal Portfolio Webpage - ***Finished October 20, 2020***
+
+![Image of my Responsive Web Design Certification](https://octodex.github.com/images/yaktocat.png)
