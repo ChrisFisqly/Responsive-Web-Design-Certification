@@ -1,4 +1,4 @@
-![alt text](https://github.com/ChrisFisqly/Responsive-Web-Design-Certification/blob/master/img/freecodecamp-vector-logo.png "FreeCodeCamp Logo")
+![alt text](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freecodecamp-vector-logo.png "FreeCodeCamp Logo")
 
 ## Responsive Web Design Certification
 
