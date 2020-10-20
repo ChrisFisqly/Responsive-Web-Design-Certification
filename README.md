@@ -256,4 +256,4 @@ ___
 + Build a Technical Documentation Page - ***Finished October 20, 2020***
 + Build a Personal Portfolio Webpage - ***Finished October 20, 2020***
 
-![alt text](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/tree/master/img/freeCodeCampcertification.png "Chris Spangler's Responsive Web Design Certification")
+![alt text](https://github.com/ChrisSpangler/Responsive-Web-Design-Certification/blob/master/img/freeCodeCampcertification.PNG "Chris Spangler's Responsive Web Design Certification")
