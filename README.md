@@ -256,4 +256,4 @@ ___
 + Build a Technical Documentation Page - ***Finished October 20, 2020***
 + Build a Personal Portfolio Webpage - ***Finished October 20, 2020***
 
-![Image of my Responsive Web Design Certification](https://octodex.github.com/images/yaktocat.png)
+![Image of my Responsive Web Design Certification](img/freeCodeCamp certification.PNG)
